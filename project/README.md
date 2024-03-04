@@ -7,7 +7,7 @@
 Tyreese & Liz - Digital Art
 Evie - TileMap
 Emma - Classes
-Molly - Movement
+Molly & Michaella - Movement
 
 ## Our initial game idea
 
